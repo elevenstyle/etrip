@@ -1,1 +1,6 @@
-/target/
+target/
+/logback.log
+.settings/
+.idea/
+/.classpath
+/.project
